@@ -1,0 +1,21 @@
+- laser colliding against objects
+- laser effects
+- boundaries for camera so player doesn't run out of bounds		DONE
+- how do I change camera size??
+- enemies
+- objects to blow up
+- health???
+- timer
+- score
+- menu screen
+- game over screen
+- pun dialogue
+
+laser beam:
+http://answers.unity3d.com/questions/365186/ray-gun-laser-beam.html
+
+good unity tutorial for all basics:
+http://pixelnest.io/tutorials/2d-game-unity/shooting-1/
+
+other possible laser beam?
+http://forum.unity3d.com/threads/122500-Laser-Beam-Script-in-C
